@@ -1,0 +1,6 @@
+﻿  SanboxApp.cpp
+C:\Users\Andrzej\Desktop\GameEngine\Hazel\Hazel\src\Hazel\Log.h(19,42): warning C4251: 'Hazel::Log::s_CoreLogger': class 'std::shared_ptr<spdlog::logger>' needs to have dll-interface to be used by clients of class 'Hazel::Log'
+C:\Users\Andrzej\Desktop\GameEngine\Hazel\Hazel\vendor\spdlog\include\spdlog\details\registry.h(34): message : see declaration of 'std::shared_ptr<spdlog::logger>'
+C:\Users\Andrzej\Desktop\GameEngine\Hazel\Hazel\src\Hazel\Log.h(20,42): warning C4251: 'Hazel::Log::s_ClientLogger': class 'std::shared_ptr<spdlog::logger>' needs to have dll-interface to be used by clients of class 'Hazel::Log'
+C:\Users\Andrzej\Desktop\GameEngine\Hazel\Hazel\vendor\spdlog\include\spdlog\details\registry.h(34): message : see declaration of 'std::shared_ptr<spdlog::logger>'
+  Sandbox.vcxproj -> C:\Users\Andrzej\Desktop\GameEngine\Hazel\bin\Debug-windows-x86_64\Sandbox\Sandbox.exe
